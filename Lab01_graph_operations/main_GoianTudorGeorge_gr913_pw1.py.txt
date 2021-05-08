@@ -1,0 +1,4 @@
+from console_GoianTudorGeorge_gr913_pw1 import UI
+
+ui = UI('graph_1k.txt')
+ui.start()
